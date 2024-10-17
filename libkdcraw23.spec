@@ -8,7 +8,7 @@ Release:	5
 Epoch:		3
 License:	GPLv2+
 Group:		System/Libraries
-Url:		http://www.kde.org
+Url:		https://www.kde.org
 Source0:	ftp://ftp.kde.org/pub/kde/%{stable}/applications/%{version}/src/%{oname}-%{version}.tar.xz
 BuildRequires:	automoc4
 BuildRequires:	kdelibs4-devel
