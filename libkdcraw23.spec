@@ -10,6 +10,7 @@ License:	GPLv2+
 Group:		System/Libraries
 Url:		https://www.kde.org
 Source0:	ftp://ftp.kde.org/pub/kde/%{stable}/applications/%{version}/src/%{oname}-%{version}.tar.xz
+BuildRequires:	make
 BuildRequires:	automoc4
 BuildRequires:	kdelibs4-devel
 BuildRequires:	jpeg-devel
